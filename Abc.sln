@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Northwind.DataAccess", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Northwind.Business", "Abc.Northwind.Business\Abc.Northwind.Business.csproj", "{4AC370DC-E00A-45A8-9039-3C7EA1EF592D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Northwind.MvcWebUI", "Abc.Northwind.MvcWebUI\Abc.Northwind.MvcWebUI.csproj", "{141DD72C-5D28-4070-814B-010959DB9FEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Northwind.MvcWebUI", "Abc.Northwind.MvcWebUI\Abc.Northwind.MvcWebUI.csproj", "{062BAFA0-F4FC-4947-846C-7629447E98FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{4AC370DC-E00A-45A8-9039-3C7EA1EF592D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC370DC-E00A-45A8-9039-3C7EA1EF592D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC370DC-E00A-45A8-9039-3C7EA1EF592D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{141DD72C-5D28-4070-814B-010959DB9FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{141DD72C-5D28-4070-814B-010959DB9FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{141DD72C-5D28-4070-814B-010959DB9FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{141DD72C-5D28-4070-814B-010959DB9FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062BAFA0-F4FC-4947-846C-7629447E98FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062BAFA0-F4FC-4947-846C-7629447E98FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062BAFA0-F4FC-4947-846C-7629447E98FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062BAFA0-F4FC-4947-846C-7629447E98FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
